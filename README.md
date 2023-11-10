@@ -37,7 +37,7 @@ The units reported here correspond are *Psychopy*'s "normalized units".
     The participant is instructed to tap their thumb on each of their other four fingers of the hand indicated on the screen (presenting the words 'LEFT' or 'RIGHT'), sequentially with all fingers and reversing the direction at the extremes (from pointer to pinkie).
     The words 'LEFT' or 'RIGHT', are presented in random order, in white color, and 0.5 units to the left from the center of the screen, respectively to the right, for 5s.
 
-3.Gaze movement: Cognitive trials involve a series of fixation points moving across the screen.
+3. Gaze movement: Cognitive trials involve a series of fixation points moving across the screen.
     Each fixation point comprises a small green dot (HEX #00ff00) surrounded by a larger concentric gray circle (radius ratio is ~2.2).
     Participants are instructed to focus their gaze on the center of the fixation point and follow it with their eyes while avoiding head movements.
     The fixation point moves to six different locations corresponding to the compass directions North–East, East, South–East, North–West, West, and South–West.
