@@ -26,7 +26,7 @@ The most prominent changes to the original task are:
 
 The QCT consists of four paradigms whose presentation order and realization are randomly selected.
 The background for all tasks is black (HEX #000000).
-The units reported here correspond are *Psychopy*'s "normalized units".
+The units reported here correspond to *Psychopy*'s "normalized units".
 
 1. Visual gratting pattern: Visual trials consist of a centrally-presented sine-wave grating subtending approximately 10° of visual angle and with a spatial frequency of 1.2 cycles/degree.
     The grating drifts laterally at a rate of 6 cycles per second, and the direction of the drift is reversed every 0.5s (Harvey et al. 2018).
