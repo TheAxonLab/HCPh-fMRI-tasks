@@ -48,7 +48,13 @@ The units reported here correspond to *Psychopy*'s "normalized units".
     The fixation point is built like in the gaze movement task.
 
 ## Resting-state fMRI
-Resting-state fMRI was acquired while the participant watched a naturalistic scene depicting a calm landscape at sunset. The movie was captured by a static camera offering the view of the village of Mundaka, located on the northern coast of Spain, as shown in the image below. Filmed in real-time, the movie lasts exactly 20 minutes and has not been accelerated, decelerated, or edited, maintaining the natural progression of the scene. As the sun sets, the luminosity gradually decreases. The movie contains no sudden or abrupt stimuli, aside from occasional passing cars in the village. Slow and steady movement visible throughout are the waves, the lights flickering and the clouds drifting. The movie is silent. 
+Resting-state fMRI was acquired while the participant watched a naturalistic scene depicting a calm landscape at sunset.
+The movie was captured by a static camera offering the view of the village of Mundaka, located on the northern coast of Spain, as shown in the image below.
+From the original recording of over four hours in length, we extracted 40 minutes, and increased the speed to compress them into exactly 20 minutes.
+As the sun sets, the luminosity gradually decreases.
+The movie contains no sudden or abrupt stimuli, such as faces, aside from occasional passing cars in the village.
+Slow and steady movement visible throughout are the waves, the lights flickering and the clouds drifting.
+The movie is silent. 
 
 ![Naturalistic Movie](./assets/NaturalisticMovie.png)
 
