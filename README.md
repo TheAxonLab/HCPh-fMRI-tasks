@@ -52,7 +52,7 @@ Resting-state fMRI was acquired while the participant watched a naturalistic sce
 The movie was captured by a static camera offering the view of the village of Mundaka, located on the northern coast of Spain, as shown in the image below.
 From the original recording of over four hours in length, we extracted 40 minutes, and increased the speed to compress them into exactly 20 minutes.
 As the sun sets, the luminosity gradually decreases.
-The movie contains no sudden or abrupt stimuli, such as faces, aside from occasional passing cars in the village.
+The movie contains no sudden or abrupt stimuli, such as faces, aside from occasional passing cars in the village or one boat in the ocean.
 Slow and steady movement visible throughout are the waves, the lights flickering and the clouds drifting.
 The movie is silent. 
 
