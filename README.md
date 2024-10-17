@@ -50,8 +50,9 @@ The units reported here correspond to *Psychopy*'s "normalized units".
 ## Resting-state fMRI
 Resting-state fMRI was acquired while the participant watched a naturalistic scene depicting a calm landscape at sunset.
 The movie was captured by a static camera offering the view of the village of Mundaka, located on the northern coast of Spain, as shown in the image below.
-From the original four-hour recording, we extracted a 40-minutes segment, which was accelerated to 20 minutes to fit the duration of the fMRI sequence.
-The segment was carefully selected to minimize distractions: the first part of the movie was cut out because a boat slowly moved in the right part of the frame and we didn't want it to become a point of focus for the participant. We also cut the end of the recording because the scene became too dark, which could induce sleep. Accelerating the selected segment further minimized the time that moving boats or cars were visible.
+From the original four-hour recording, we extracted a 20-minutes segment to fit the duration of the fMRI sequence.
+The segment was carefully selected to minimize distractions: the first part (~20 minutes) of the movie was cut out because a boat slowly moved in the right part of the frame and we didn't want it to become a point of focus for the participant.
+We also cut the end of the recording because the scene became too dark, which could induce sleep.
 As the sun sets, the luminosity gradually decreases.
 The movie contains no sudden or abrupt stimuli, such as faces, aside from occasional passing cars in the village or one boat in the ocean.
 Slow and steady movement visible throughout are the waves, the lights flickering and the clouds drifting.
