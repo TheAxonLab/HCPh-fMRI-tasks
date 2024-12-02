@@ -47,6 +47,19 @@ The units reported here correspond to *Psychopy*'s "normalized units".
 4. Fixation: Blank trials consist of a fixation point presented at the center of the screen for 3s.
     The fixation point is built like in the gaze movement task.
 
+## Resting-state fMRI
+Resting-state fMRI was acquired while the participant watched a naturalistic scene depicting a calm landscape at sunset.
+The movie was captured by a static camera offering the view of the village of Mundaka, located on the northern coast of Spain, as shown in the image below.
+From the original four-hour recording, we extracted a 20-minutes segment to fit the duration of the fMRI sequence.
+The segment was carefully selected to minimize distractions: the first part (~20 minutes) of the movie was cut out because a boat slowly moved in the right part of the frame and we didn't want it to become a point of focus for the participant.
+Occasional passing cars in the village and one passing boat on the ocean could not be avoided.
+Aside from those elements, the segment contains no sudden or abrupt stimuli, such as faces.
+Gentle movement visible throughout are the waves, flickering lights and drifting clouds.
+As the sun sets, the luminosity gradually decreases; therefore, the end of the recording was cut out to prevent the scene from becoming too dark, which could have induced sleep.
+The movie is silent and was cropped to match the 800x600 resolution of the MRI projector. 
+
+![Naturalistic Movie](./assets/NaturalisticMovie.png)
+
 # License
 
 These tasks are released under the terms of the Apache 2.0, in order to abide by the [NiPreps licensing principles](https://www.nipreps.org/community/licensing/). See ``NOTICE`` file for further details.
